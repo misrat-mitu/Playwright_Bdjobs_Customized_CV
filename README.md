@@ -53,7 +53,7 @@ pip install playwright
 playwright install
 ```
 
-## ▶️ How to Run
+### ▶️ How to Run
 
 Run the automation script using:
 
