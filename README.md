@@ -26,27 +26,6 @@ The automation covers the following steps:
 7. Upload a CV file
 8. Verify the CV upload functionality
 
-## 🔄 End-to-End Automation Flow
-
-```text
-Open Bdjobs Website
-        ↓
-Login to Job Seeker Account
-        ↓
-Navigate to MyBdjobs
-        ↓
-Open Manage Profile
-        ↓
-Open Customized CV
-        ↓
-Click Add Customized CV
-        ↓
-Select CV File
-        ↓
-Upload CV
-        ↓
-Verify CV Upload
-
 ## 📂 Project Structure
 
 ```text
@@ -80,6 +59,27 @@ Run the automation script using:
 ```bash
 python first_test.py
 ```
+
+## 🔄 End-to-End Automation Flow
+
+```text
+Open Bdjobs Website
+        ↓
+Login to Job Seeker Account
+        ↓
+Navigate to MyBdjobs
+        ↓
+Open Manage Profile
+        ↓
+Open Customized CV
+        ↓
+Click Add Customized CV
+        ↓
+Select CV File
+        ↓
+Upload CV
+        ↓
+Verify CV Upload
 
 ## 🎯 Purpose
 
