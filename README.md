@@ -80,6 +80,7 @@ Select CV File
 Upload CV
         ↓
 Verify CV Upload
+```
 
 ## 🎯 Purpose
 
